@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/bhabatosh-portfolio/static/css/main.01726e75.css",
+    "main.js": "/bhabatosh-portfolio/static/js/main.1fe6f50b.js",
+    "static/media/profile.jpeg": "/bhabatosh-portfolio/static/media/profile.25bae0fa73228e854723.jpeg",
+    "static/media/osu.svg.png": "/bhabatosh-portfolio/static/media/osu.svg.c580bf9aa9a5add8b19b.png",
+    "static/media/bput.png": "/bhabatosh-portfolio/static/media/bput.8365c52ef668ea700e83.png",
+    "index.html": "/bhabatosh-portfolio/index.html",
+    "main.01726e75.css.map": "/bhabatosh-portfolio/static/css/main.01726e75.css.map",
+    "main.1fe6f50b.js.map": "/bhabatosh-portfolio/static/js/main.1fe6f50b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01726e75.css",
+    "static/js/main.1fe6f50b.js"
+  ]
+}
