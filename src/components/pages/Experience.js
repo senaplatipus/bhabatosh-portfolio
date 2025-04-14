@@ -58,7 +58,7 @@ const Experience = () => {
                     </div>
                     <h4 className="text-xl font-extrabold text-black mb-1">Software Engineer</h4>
                     <p className="text-lg font-bold text-black-100">Niv-Tech Solutions Private Limited</p>
-                    <p className="text-base font-semibold text-black mt-1">Feb 2022 - Jul 2023</p>
+                    <p className="text-base font-semibold text-black mt-1">Jun 2021 - Jul 2023</p>
                     <p className="text-base font-medium text-black-100 mt-4 leading-relaxed">
                       Engineered distributed microservices using Java and Spring Boot, enhancing scalability and reliability. 
                       Optimized system architecture with Apache Kafka and MongoDB, achieving 35% reduction in latency.
@@ -87,9 +87,9 @@ const Experience = () => {
                         <path d="M0 12l10-10v20z" />
                       </svg>
                     </div>
-                    <h4 className="text-xl font-extrabold text-black mb-1">Co-founder</h4>
+                    <h4 className="text-xl font-extrabold text-black mb-1">Startup Co-founder</h4>
                     <p className="text-lg font-bold text-black-100">Coduter Private Limited | www.coduter.com </p>
-                    <p className="text-base font-semibold text-black mt-1">Dec 2020 - Jul 2021</p>
+                    <p className="text-base font-semibold text-black mt-1">Dec 2020 - Present</p>
                     <p className="text-base font-medium text-black-100 mt-4 leading-relaxed">
                       Founded and developed an interactive coding platform with real-time video chat and live challenges. 
                       Implemented ML-based matchmaking and gamification, driving 40% user retention.
