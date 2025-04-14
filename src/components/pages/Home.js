@@ -99,7 +99,7 @@ const Home = () => {
               animate={{ y: 0 }}
               className="text-xl font-medium text-gray-600 mb-12"
             >
-              Full Stack Developer | Problem Solver | Tech Enthusiast
+              Full Stack Developer | AI/ML Enthusiast | Ronaldo Fan
             </motion.p>
             <motion.div
               initial={{ y: 20, opacity: 0 }}
