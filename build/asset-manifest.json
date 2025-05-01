@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/bhabatosh-portfolio/static/css/main.1365f0a2.css",
-    "main.js": "/bhabatosh-portfolio/static/js/main.ede98ee5.js",
-    "static/media/me.png": "/bhabatosh-portfolio/static/media/me.91515e4dfefc456ea981.png",
-    "static/media/facemask.png": "/bhabatosh-portfolio/static/media/facemask.7b4c71403a802b7fc8f4.png",
-    "static/media/s2s.png": "/bhabatosh-portfolio/static/media/s2s.55f86286744d26289cf9.png",
-    "static/media/chess.png": "/bhabatosh-portfolio/static/media/chess.66b6188e29a0046a7127.png",
-    "static/media/codu.png": "/bhabatosh-portfolio/static/media/codu.664ba9d766c09aa3638e.png",
-    "static/media/mern.png": "/bhabatosh-portfolio/static/media/mern.87a63e47fa77b072aac5.png",
-    "static/media/911.png": "/bhabatosh-portfolio/static/media/911.f6662cecd103829a00d6.png",
-    "static/media/algo.png": "/bhabatosh-portfolio/static/media/algo.8b56869c773e14a21759.png",
-    "static/media/sorting.png": "/bhabatosh-portfolio/static/media/sorting.f16c70e61d68cf18e2e5.png",
-    "static/media/snake.png": "/bhabatosh-portfolio/static/media/snake.35cc0fe704d16ae067ce.png",
-    "static/media/profile.jpeg": "/bhabatosh-portfolio/static/media/profile.25bae0fa73228e854723.jpeg",
-    "static/media/osu.svg.png": "/bhabatosh-portfolio/static/media/osu.svg.c580bf9aa9a5add8b19b.png",
-    "static/media/bput.png": "/bhabatosh-portfolio/static/media/bput.8365c52ef668ea700e83.png",
-    "index.html": "/bhabatosh-portfolio/index.html",
-    "main.1365f0a2.css.map": "/bhabatosh-portfolio/static/css/main.1365f0a2.css.map",
-    "main.ede98ee5.js.map": "/bhabatosh-portfolio/static/js/main.ede98ee5.js.map"
+    "main.css": "/portfolio/static/css/main.1365f0a2.css",
+    "main.js": "/portfolio/static/js/main.826a0d7f.js",
+    "static/media/me.png": "/portfolio/static/media/me.91515e4dfefc456ea981.png",
+    "static/media/facemask.png": "/portfolio/static/media/facemask.7b4c71403a802b7fc8f4.png",
+    "static/media/s2s.png": "/portfolio/static/media/s2s.55f86286744d26289cf9.png",
+    "static/media/chess.png": "/portfolio/static/media/chess.66b6188e29a0046a7127.png",
+    "static/media/codu.png": "/portfolio/static/media/codu.664ba9d766c09aa3638e.png",
+    "static/media/mern.png": "/portfolio/static/media/mern.87a63e47fa77b072aac5.png",
+    "static/media/911.png": "/portfolio/static/media/911.f6662cecd103829a00d6.png",
+    "static/media/algo.png": "/portfolio/static/media/algo.8b56869c773e14a21759.png",
+    "static/media/sorting.png": "/portfolio/static/media/sorting.f16c70e61d68cf18e2e5.png",
+    "static/media/snake.png": "/portfolio/static/media/snake.35cc0fe704d16ae067ce.png",
+    "static/media/profile.jpeg": "/portfolio/static/media/profile.25bae0fa73228e854723.jpeg",
+    "static/media/osu.svg.png": "/portfolio/static/media/osu.svg.c580bf9aa9a5add8b19b.png",
+    "static/media/bput.png": "/portfolio/static/media/bput.8365c52ef668ea700e83.png",
+    "index.html": "/portfolio/index.html",
+    "main.1365f0a2.css.map": "/portfolio/static/css/main.1365f0a2.css.map",
+    "main.826a0d7f.js.map": "/portfolio/static/js/main.826a0d7f.js.map"
   },
   "entrypoints": [
     "static/css/main.1365f0a2.css",
-    "static/js/main.ede98ee5.js"
+    "static/js/main.826a0d7f.js"
   ]
 }
